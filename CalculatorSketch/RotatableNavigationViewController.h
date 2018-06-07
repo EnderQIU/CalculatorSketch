@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RotatableNavigationViewController.h
 //  CalculatorSketch
 //
 //  Created by enderqiu on 2018/6/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RotatableNavigationViewController : UINavigationController
 
 @end
-
